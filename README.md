@@ -8,6 +8,7 @@ The project also includes configurations related to IAM roles and has potential 
 ---
 
 ## 📊 Architecture Diagram
+![image](https://github.com/user-attachments/assets/7bd04a2f-4226-4d71-9c87-9c397c1eb21b)
 
 ![Architecture Diagram](./architecture-diagram.png) <!-- Replace with your actual image path -->
 
