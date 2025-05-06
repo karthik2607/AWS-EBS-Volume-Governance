@@ -36,7 +36,10 @@ The project also includes configurations related to IAM roles and has potential 
 6. Logs and metrics are captured via **CloudWatch Logs**.
 
 ---
-📌 Future Scope
+
+## 📌 Future Scope
+
+
 Apply similar governance to EC2 instance types or S3 bucket policies.
 
 Notify via SNS when non-compliant resources are found.
